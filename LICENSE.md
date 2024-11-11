@@ -1,7 +1,5 @@
-# Creative Commons Attribution 4.0 International License (CC BY 4.0)
+# Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 
-This work is licensed under the Creative Commons Attribution 4.0 International
-License.
+Choose this license if you want to permit others to **_share_** (mirror) and **_adapt_** (borrow and alter) your mod content, providing that they credit you and don't use your work for commercial purposes.
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
-or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+You can view additional details on [this page](https://creativecommons.org/licenses/by-nc/4.0/), which you should link to in your readme.
