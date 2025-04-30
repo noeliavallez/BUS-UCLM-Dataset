@@ -68,7 +68,29 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 
 ### Dataset
 
-Vallez, Noelia; Bueno, Gloria; Deniz, Oscar; Rienda, Miguel Angel; Pastor, Carlos (2024), “BUS-UCLM: Breast ultrasound lesion segmentation dataset”, Mendeley Data, V1, doi: 10.17632/7fvgj4jsp7.1
+Vallez, Noelia; Bueno, Gloria; Deniz, Oscar; Rienda, Miguel Angel; Pastor, Carlos (2025), “BUS-UCLM: Breast ultrasound lesion segmentation dataset”, Mendeley Data, V3, doi: 10.17632/7fvgj4jsp7.3
 
-### Papers
+### Publications
+
+@article{vallez2025bus,
+  title={BUS-UCLM: Breast ultrasound lesion segmentation dataset},
+  author={Vallez, Noelia and Bueno, Gloria and Deniz, Oscar and Rienda, Miguel Angel and Pastor, Carlos},
+  journal={Scientific Data},
+  volume={12},
+  number={1},
+  pages={242},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{vallez2025comparative,
+  title={Comparative Analysis of Deep Learning Methods for Breast Ultrasound Lesion Detection and Classification},
+  author={Vallez, Noelia and Mateos-Aparicio-Ruiz, Israel and Rienda, Miguel Angel and Deniz, Oscar and Bueno, Gloria},
+  journal={Physica Medica},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  publisher={}
+}
 
