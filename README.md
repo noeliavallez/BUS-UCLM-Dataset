@@ -45,7 +45,6 @@ python draw_annotations.py
 ```
 python prepare_partitions.py
 ```
-```
 * To anonymize the DICOM files (including the text in the pixeldata):
 ```
 python anonymize.py
