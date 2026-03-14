@@ -83,13 +83,12 @@ Vallez, Noelia; Bueno, Gloria; Deniz, Oscar; Rienda, Miguel Angel; Pastor, Carlo
 }
 
 @article{vallez2025comparative,
-  title={Comparative Analysis of Deep Learning Methods for Breast Ultrasound Lesion Detection and Classification},
+  title={Comparative analysis of deep learning methods for breast ultrasound lesion detection and classification},
   author={Vallez, Noelia and Mateos-Aparicio-Ruiz, Israel and Rienda, Miguel Angel and Deniz, Oscar and Bueno, Gloria},
   journal={Physica Medica},
-  volume={},
-  number={},
-  pages={},
+  volume={134},
+  pages={104993},
   year={2025},
-  publisher={}
+  publisher={Elsevier}
 }
 
